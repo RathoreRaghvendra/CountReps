@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+        "python.terminal.activateEnvironment": true,
+		"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+		"python.condaPath": "C:\\Users\\asus\\anaconda3\\Scripts\\conda.exe"
+
+	}
+}
